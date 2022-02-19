@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 90%;
+    margin: auto;
+}
+/* Header part */
+header{
+    background-color: white;
+    width: 100%;
+    float: left;
+
+}
+.logo-part{
+    width: 25%;
+    float: left;
+    padding: 10px;
+
+}
+.logo-part img{
+    width: 50%;
+
+}
+.meno-part{
+    width: 45%;
+    float: left;
+
+}
+.meno-part ul{
+    color: white;
+    text-align: center;
+
+
+}
+.meno-part li{
+    display: inline-block;
+    margin: 35px 10px;
+
+
+}
+.meno-part a{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 600;
+
+}
+.search-part{
+    width: 30%;
+    float: left;
+
+}
+.hero{
+    width: 100%;
+    background-color: aqua;
+    float: left;
+}
+.writting-part{
+    width: 50%;
+    float: left;
+}
+.img-part{
+    width: 50%;
+    float: left;
+}
